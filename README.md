@@ -1,3 +1,4 @@
 # hello-world
-My first github project. WIP
-I am working on this project to help create a presentation for my team. 
+<p>My first github project. WIP</br >
+I am working on this project to help create a presentation for my team.</p>
+<p style="text-align:center">^___^</p>
